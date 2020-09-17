@@ -1,2 +1,2 @@
-# HW2_nmadrazo
+# HW2_Madrazo
 Applied Bioinformatics Course
